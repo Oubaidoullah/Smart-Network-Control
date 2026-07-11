@@ -1,4 +1,4 @@
-# Wireless
+# iWireless
 
 Wireless is a cross-platform network management and diagnostic suite designed to provide advanced control and visibility over wireless connectivity across multiple environments. It supports **Android, Windows, macOS, and Linux**, offering a consistent set of tools for network professionals and power users alike.
 
